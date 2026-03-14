@@ -30,7 +30,7 @@ This script automates the process of fixing those problems safely.
 
 ------------------------------------------------------------------------
 
-## One Command Run (Optional)
+## One Command Run
 
 For quick execution:
 
