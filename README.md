@@ -136,8 +136,7 @@ Execution logs are stored in:
 ## Author
 
 **Areez Afsar Khan**
-
-Entrepreneur, DevOps practitioner, and founder of Valiant Technologies.
+Entrepreneur, DevOps Practitioner, and Founder of ![Valiant Technologies](https://valiant.com.bd)
 
 ## Disclaimer
 This project is **free to use, modify, and distribute**.
